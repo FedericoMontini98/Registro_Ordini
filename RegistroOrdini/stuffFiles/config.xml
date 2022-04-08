@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConfigParametri>
+	<numeroRigheTabella>6</numeroRigheTabella>
+</ConfigParametri>
+
+<!-- "Parametri di Configurazione" di default
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ParametriDiConfigurazione>
+  <numeroRigheTabella>5</numeroRigheTabella>
+  <intervalloDiGiorni>365</intervalloDiGiorni>
+  <coloreInserisci>
+    <red>0.0</red>
+    <green>1.0</green>
+    <blue>0.0</blue>
+    <opacity>1.0</opacity>
+  </coloreInserisci>
+  <coloreModifica>
+    <red>0.0</red>
+    <green>0.0</green>
+    <blue>1.0</blue>
+    <opacity>1.0</opacity>
+  </coloreModifica>
+  <coloreElimina>
+    <red>1.0</red>
+    <green>0.0</green>
+    <blue>0.0</blue>
+    <opacity>1.0</opacity>
+  </coloreElimina>
+  <coloreAnnulla>
+    <red>0.0</red>
+    <green>0.0</green>
+    <blue>0.0</blue>
+    <opacity>0.5</opacity>
+  </coloreAnnulla>
+  <addressIPDatabase>127.0.0.1</addressIPDatabase>
+  <portaDatabase>3320</portaDatabase>
+  <nomeDatabase>RegistroOrdini</nomeDatabase>
+  <usernameDatabase>root</usernameDatabase>
+  <passwordDatabase></passwordDatabase>
+  <addressIPServerLog>127.0.0.1</addressIPServerLog>
+  <portaServerLog>8080</portaServerLog>
+</ParametriDiConfigurazione> -->
